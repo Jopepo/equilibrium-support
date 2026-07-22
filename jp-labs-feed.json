@@ -1,0 +1,88 @@
+{
+  "chronology": "descending",
+  "digestSHA256": "012f500d3004e3f53aa72c9ee1a1e6a74d7161f125a76928458fcb1ce87b6a53",
+  "freshness": {
+    "lastMaterialAt": "2026-07-22T14:28:00+01:00",
+    "mode": "material_delta_only"
+  },
+  "generatedAt": "2026-07-22T16:13:32+01:00",
+  "items": [
+    {
+      "category": "metric",
+      "dedupKey": "47e48dc9aa0bc5487fb75e20",
+      "detail": "25 visualizações, 2 gostos, 1 comentário e 0 novos subscritores numa leitura pontual, sem inferência causal.",
+      "id": "234212f316303bbdea4f1379",
+      "occurredAt": "2026-07-22T14:28:00+01:00",
+      "project": "Equilibrium Growth & Marketing",
+      "source": "institutional_verification",
+      "sourceURL": "https://www.youtube.com/shorts/T0p2MbBtqrM",
+      "status": "Métrica factual atualizada",
+      "title": "Primeiro checkpoint do Short"
+    },
+    {
+      "category": "publication",
+      "dedupKey": "18ffd182412d55d9ea9fe187",
+      "detail": "A descrição do Short e o perfil institucional passaram a usar o short link oficial da Apple, sem novos claims.",
+      "id": "9d5e8288415d3c225160e130",
+      "occurredAt": "2026-07-22T14:28:00+01:00",
+      "project": "Equilibrium Growth & Marketing",
+      "source": "public_web",
+      "sourceURL": "https://www.youtube.com/shorts/T0p2MbBtqrM",
+      "status": "Publicado e verificado",
+      "title": "Canal e Short apontam para a App Store"
+    },
+    {
+      "category": "marketing",
+      "dedupKey": "e4f79d8480c79ba8b210aa73",
+      "detail": "Short link, QR, badge em português e três peças oficiais foram gerados e validados para a ficha do Equilibrium.",
+      "id": "75c5e1e56982e260f5ac4364",
+      "occurredAt": "2026-07-22T13:31:00+01:00",
+      "project": "Equilibrium Growth & Marketing",
+      "source": "institutional_verification",
+      "sourceURL": "https://apps.apple.com/pt/app/equilibrium/id6791663913",
+      "status": "Pronto para reutilização institucional",
+      "title": "Materiais oficiais Apple prontos"
+    },
+    {
+      "category": "outreach",
+      "dedupKey": "be613307a9563397569f1e58",
+      "detail": "Foram enviados dois pitches institucionais, sem tracking, anexos ou follow-up automático.",
+      "id": "3b31245bc92cc575ac9d5879",
+      "occurredAt": "2026-07-22T06:07:00+01:00",
+      "project": "Equilibrium Growth & Marketing",
+      "source": "institutional_verification",
+      "sourceURL": null,
+      "status": "Concluído",
+      "title": "Divulgação editorial enviada"
+    },
+    {
+      "category": "publication",
+      "dedupKey": "f58cda8dcafe1db2053b12cf",
+      "detail": "A primeira demonstração pública mostra 10 segundos de gameplay real no iPhone.",
+      "id": "d3e90cc78288817244231d42",
+      "occurredAt": "2026-07-22T05:53:00+01:00",
+      "project": "Equilibrium Growth & Marketing",
+      "source": "public_web",
+      "sourceURL": "https://www.youtube.com/shorts/T0p2MbBtqrM",
+      "status": "Publicado e verificado",
+      "title": "Equilibrium estreou no YouTube Shorts"
+    },
+    {
+      "category": "product",
+      "dedupKey": "d18ceb681175b2f3cb1f9ec1",
+      "detail": "Puzzle premium para iPhone, em inglês, disponível em Portugal por 0,99 €.",
+      "id": "2244cfe3e693fba909215c3a",
+      "occurredAt": "2026-07-22T02:41:00+01:00",
+      "project": "Equilibrium",
+      "source": "public_web",
+      "sourceURL": "https://apps.apple.com/pt/app/equilibrium/id6791663913",
+      "status": "Ativo",
+      "title": "Equilibrium 1.0 está disponível"
+    }
+  ],
+  "schemaVersion": 2,
+  "signature": null,
+  "signatureKeyID": null,
+  "sourceName": "MINERVA · feed público sanitizado",
+  "sourceUpdatedAt": "2026-07-22T14:28:00+01:00"
+}
